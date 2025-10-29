@@ -45,7 +45,8 @@ Perfect for:
 
 ## 📸 Preview
 
-> [💻 Live Demo (Coming Soon on Vercel)](#)
+## 🌐 Live Demo  
+[modern-saas-landing-page-alpha.vercel.app](https://modern-saas-landing-page-alpha.vercel.app)
 
 ---
 
